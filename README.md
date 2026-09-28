@@ -8,8 +8,7 @@ An executive retail intelligence dashboard built in Google Looker Studio using a
 ---
 
 ## Live Dashboard & Assets
-- **Dashboard Report Link**: [Paste your Looker Studio Share Link here]
-- **Dashboard Preview**: ![Dashboard Preview](assets/dashboard_preview.png)
+- **Dashboard Report Link**: https://datastudio.google.com/s/iB4VieSb1bc
 
 ---
 
