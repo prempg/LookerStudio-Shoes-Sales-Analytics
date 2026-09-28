@@ -1,7 +1,7 @@
 # LookerStudio-Shoes-Sales-Analytics
 # Wave Shoes Sales Analytics Dashboard (Google Looker Studio)
 
-https://datastudio.google.com/embed/reporting/a950ed6b-592e-47f0-9987-d09da3e86521/page/0B09F
+<img width="499" height="283" alt="image" src="https://github.com/user-attachments/assets/d1427a58-ac07-4ce4-93d5-a4f19c0722c2" />
 
 An executive retail intelligence dashboard built in Google Looker Studio using a retail transaction dataset sourced from Kaggle. The dashboard provides end-to-end visibility into revenue, geographical density, product categorization, and seasonal trends.
 
